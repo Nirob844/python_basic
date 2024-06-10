@@ -1,0 +1,5 @@
+highest = max(45,42,67,87,97,54,23)
+smalest = min([45,42,67,87,97,54,23])
+total = sum([45,42,67,87,97,54,23])
+count = len([45,42,67,87,97,54,23])
+print(highest, smalest,total,count)
