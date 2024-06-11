@@ -15,3 +15,6 @@ numbers.sort()
 print(numbers)
 numbers.reverse()
 print(numbers)
+
+for i, number in enumerate(numbers):
+    print(i, number)
